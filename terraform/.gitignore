@@ -1,7 +1,6 @@
-
 **/*.tfstate
 **/*.tfstate.*
 **/*.terraform/*
 **/*.terraform.lock.hcl
-
-
+**/*.terraform.code-workspace
+**/*.terraform/terraform.code-workspace
